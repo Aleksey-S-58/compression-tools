@@ -9,4 +9,13 @@
 	<artifactId>3d-object-compression-tools</artifactId>
 	<version>1.0.0</version>
 	<name>Compression-tools</name>
+	
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.12</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
 </project>
